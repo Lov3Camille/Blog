@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add LXGWWenKai font">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
-    </list>
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add igonore file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="8291000" />
+      <workItem from="1656486752278" duration="8593000" />
     </task>
     <task id="LOCAL-00001" summary="add LXGWWenKai font">
       <created>1656559217632</created>
@@ -147,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656560651069</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add igonore file">
+      <created>1656561927188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656561927188</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="archived" />
     <MESSAGE value="add LXGWWenKai font" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LXGWWenKai font" />
+    <MESSAGE value="add igonore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add igonore file" />
   </component>
 </project>
