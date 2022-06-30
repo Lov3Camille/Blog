@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKai-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKai-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKai-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-06-03-SpringBoot入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-03-SpringBoot入门.md" afterDir="false" />
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add LXGWWenKai font">
       <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/新建文本文档.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +75,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="5920000" />
+      <workItem from="1656486752278" duration="6209000" />
     </task>
+    <task id="LOCAL-00001" summary="add LXGWWenKai font">
+      <created>1656559217632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656559217632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="archived" />
-    <option name="LAST_COMMIT_MESSAGE" value="archived" />
+    <MESSAGE value="add LXGWWenKai font" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LXGWWenKai font" />
   </component>
 </project>
