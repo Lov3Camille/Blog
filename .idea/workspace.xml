@@ -6,7 +6,35 @@
   <component name="ChangeListManager">
     <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-alitrip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-apple-event-2015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-css.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-dreamer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-farewell-flash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-halting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-infinity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-js-module.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-nextgen-web-pwa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-rwd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-see-u-ali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-universe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="10747000" />
+      <workItem from="1656486752278" duration="12214000" />
     </task>
     <task id="LOCAL-00001" summary="add LXGWWenKai font">
       <created>1656559217632</created>
@@ -167,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656565105558</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add font">
+      <created>1656571420578</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656571420578</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add font">
+      <created>1656571733194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656571733194</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
