@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add LXGWWenKai font">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +48,27 @@
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Grunt.js.watch">
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="default" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="less" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="less" />
+      </tasks>
       <envs />
       <method v="2" />
     </configuration>
@@ -62,9 +81,31 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="usebanner" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="usebanner" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="watch" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Grunt.js.usebanner" />
+        <item itemvalue="Grunt.js.watch" />
+        <item itemvalue="Grunt.js.less" />
         <item itemvalue="Grunt.js.uglify" />
+        <item itemvalue="Grunt.js.default" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="7372000" />
+      <workItem from="1656486752278" duration="8291000" />
     </task>
     <task id="LOCAL-00001" summary="add LXGWWenKai font">
       <created>1656559217632</created>
@@ -99,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656559521824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add LXGWWenKai font">
+      <created>1656560651069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656560651069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
