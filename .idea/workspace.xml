@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add test font">
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
     </list>
@@ -116,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="9797000" />
+      <workItem from="1656486752278" duration="10747000" />
     </task>
     <task id="LOCAL-00001" summary="add LXGWWenKai font">
       <created>1656559217632</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656562369942</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add font">
+      <created>1656565105558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656565105558</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +189,7 @@
     <MESSAGE value="add LXGWWenKai font" />
     <MESSAGE value="add igonore file" />
     <MESSAGE value="add test font" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test font" />
+    <MESSAGE value="add font" />
+    <option name="LAST_COMMIT_MESSAGE" value="add font" />
   </component>
 </project>
