@@ -4,221 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="delete avatar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="5" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2BF0unqtjFANZZwvU9Tlz8Bob2Y" />
-  <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="false" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "js.buildTools.grunt.grunt-cli.package": "/Users/lov3camille/WebstormProjects/Blog/node_modules/grunt",
-    "last_opened_file_path": "/Users/lov3camille/WebstormProjects/Blog/fonts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/fonts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
-  <component name="RunManager" selected="Grunt.js.watch">
-    <configuration default="true" type="js.build_tools.grunt">
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="default" type="js.build_tools.grunt" temporary="true">
-      <node-interpreter value="project" />
-      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
-      <tasks>
-        <task value="default" />
-      </tasks>
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="less" type="js.build_tools.grunt" temporary="true">
-      <node-interpreter value="project" />
-      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
-      <tasks>
-        <task value="less" />
-      </tasks>
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="uglify" type="js.build_tools.grunt" temporary="true">
-      <node-interpreter value="project" />
-      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
-      <tasks>
-        <task value="uglify" />
-      </tasks>
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="usebanner" type="js.build_tools.grunt" temporary="true">
-      <node-interpreter value="project" />
-      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
-      <tasks>
-        <task value="usebanner" />
-      </tasks>
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="watch" type="js.build_tools.grunt" temporary="true">
-      <node-interpreter value="project" />
-      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
-      <tasks>
-        <task value="watch" />
-      </tasks>
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Grunt.js.usebanner" />
-        <item itemvalue="Grunt.js.watch" />
-        <item itemvalue="Grunt.js.less" />
-        <item itemvalue="Grunt.js.uglify" />
-        <item itemvalue="Grunt.js.default" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="" />
-      <created>1656486751131</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1656486751131</updated>
-      <workItem from="1656486752278" duration="13347000" />
-    </task>
-    <task id="LOCAL-00001" summary="add LXGWWenKai font">
-      <created>1656559217632</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1656559217632</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add LXGWWenKai font">
-      <created>1656559473712</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1656559473712</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add LXGWWenKai font">
-      <created>1656559521824</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1656559521824</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add LXGWWenKai font">
-      <created>1656560651069</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1656560651069</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add igonore file">
-      <created>1656561927188</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1656561927188</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add test font">
-      <created>1656562369942</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1656562369942</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add font">
-      <created>1656565105558</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1656565105558</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add font">
-      <created>1656571420578</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1656571420578</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add font">
-      <created>1656571733194</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1656571733194</updated>
-    </task>
-    <task id="LOCAL-00010" summary="delete avatar">
-      <created>1656572822974</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1656572822974</updated>
-    </task>
-    <task id="LOCAL-00011" summary="delete avatar">
-      <created>1656573318221</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1656573318221</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="archived" />
-    <MESSAGE value="add LXGWWenKai font" />
-    <MESSAGE value="add igonore file" />
-    <MESSAGE value="add test font" />
-    <MESSAGE value="add font" />
-    <MESSAGE value="delete avatar" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete avatar" />
+    <option name="LAST_COMMIT_MESSAGE" value="archived" />
   </component>
 </project>
