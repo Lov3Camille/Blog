@@ -655,7 +655,7 @@ pre.highlight {
   font-family: "霞鹜文楷", "LXGWWenKai-Bold";
   src: url("/fonts/LXGWWenKai-Bold.ttf") format("ttf");
 }
-body {
+.body {
   /* Hux learn from
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
@@ -680,7 +680,7 @@ p {
 @font-face {
   font-family: "霞鹜文楷", "LXGWWenKai-Bold";
   src: url("/fonts/LXGWWenKai-Bold.ttf") format("ttf");
-}
+}.
 h1,
 h2,
 h3,
@@ -1184,11 +1184,11 @@ samp {
   margin-top: 0;
   font-size: 50px;
 }
+.intro-header .site-heading .subheading
 @font-face {
   font-family: "霞鹜文楷", "LXGWWenKai-Bold";
   src: url("/fonts/LXGWWenKai-Bold.ttf") format("ttf");
 }
-.intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   /* Hux learn from
      *     TypeIsBeautiful,
@@ -1402,11 +1402,11 @@ footer .copyright a:focus {
   margin: 20px 0 0 !important;
   padding: 0px !important;
 }
+.pager li > a
 @font-face {
   font-family: "霞鹜文楷", "LXGWWenKai-Bold";
   src: url("/fonts/LXGWWenKai-Bold.ttf") format("ttf");
 }
-.pager li > a,
 .pager li > span {
   /* Hux learn from
      *     TypeIsBeautiful,
