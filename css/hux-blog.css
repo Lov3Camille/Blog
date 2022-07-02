@@ -1,6 +1,6 @@
 @font-face {
   font-family: "霞鹜文楷", "LXGWWenKai-Bold";
-  src: url("/fonts/LXGWWenKai-Bold.ttf") format("ttf");
+  src: url("https://github.com/lxgw/LxgwWenKai/blob/main/fonts/TTF/LXGWWenKai-Bold.ttf") format("ttf");
 }
 @media (min-width: 1200px) {
   .post-container,
