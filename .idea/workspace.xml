@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="delete header img">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/intro-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656749497712</updated>
       <workItem from="1656749499909" duration="2386000" />
-      <workItem from="1656919639788" duration="761000" />
+      <workItem from="1656919639788" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="update ignore files">
       <created>1656749636287</created>
@@ -92,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656919827152</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="delete header img">
+      <created>1656920438899</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656920438899</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
