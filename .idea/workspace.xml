@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="delete header img">
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="support webfont">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro-header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-06-29-测试字体.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-06-29-测试字体.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-06-29-测试字体.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-07-04-recent_two_years.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
@@ -57,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656749497712</updated>
       <workItem from="1656749499909" duration="2386000" />
-      <workItem from="1656919639788" duration="2052000" />
+      <workItem from="1656919639788" duration="2438000" />
+      <workItem from="1656924070510" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="update ignore files">
       <created>1656749636287</created>
@@ -108,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656921114621</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="delete header img">
+      <created>1656921725528</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656921725528</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +163,7 @@
     <MESSAGE value="update ignore files" />
     <MESSAGE value="add chinese font" />
     <MESSAGE value="delete header img" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete header img" />
+    <MESSAGE value="support webfont" />
+    <option name="LAST_COMMIT_MESSAGE" value="support webfont" />
   </component>
 </project>

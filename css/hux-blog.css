@@ -1,7 +1,5 @@
-@font-face {
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold";
-  src: url("https://github.com/lxgw/LxgwWenKai/blob/main/fonts/TTF/LXGWWenKai-Bold.ttf") format("ttf");
-}
+@import "lxgw-wenkai-webfont/lxgwwenkai-bold.css";
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -660,7 +658,7 @@ body {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -687,7 +685,7 @@ h6 {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
@@ -987,7 +985,7 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;  line-height: 1.7;
+  font-family: "LXGW WenKai", sans-serif;  line-height: 1.7;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -1182,7 +1180,7 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
   font-size: 18px;
   line-height: 1.1;
@@ -1210,7 +1208,8 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;  line-height: 1.7;
+  font-family: "LXGW WenKai", sans-serif;
+  line-height: 1.7;
   font-size: 17px;
   line-height: 1.4;
   font-weight: normal;
@@ -1359,7 +1358,7 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 14px;
@@ -1388,7 +1387,7 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 13px;
@@ -1575,7 +1574,7 @@ img::-moz-selection {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "霞鹜文楷", "LXGWWenKai-Bold", sans-serif;
+  font-family: "LXGW WenKai", sans-serif;
   line-height: 1.7;
 }
 .mini-post-list .post-preview {
