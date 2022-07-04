@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="change nav bar font">
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
-    </list>
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add min css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656941729884</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add min css">
+      <created>1656941846980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656941846980</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +210,7 @@
     <MESSAGE value="delete header img" />
     <MESSAGE value="support webfont" />
     <MESSAGE value="change nav bar font" />
-    <option name="LAST_COMMIT_MESSAGE" value="change nav bar font" />
+    <MESSAGE value="add min css" />
+    <option name="LAST_COMMIT_MESSAGE" value="add min css" />
   </component>
 </project>
