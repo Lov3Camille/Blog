@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add min css" />
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add min css">
+      <change afterPath="$PROJECT_DIR$/fonts/dancing-script-v23-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/dancing-script-v23-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/dancing-script-v23-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/dancing-script-v23-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/dancing-script-v23-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656941846980</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add min css">
+      <created>1656942258481</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656942258481</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
