@@ -61,7 +61,7 @@ layout: default
                 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
                 <!-- 网易云跟帖 评论框 end -->
                 {% endif %}
-            </div>  
+            </div>
 
     <!-- Side Catalog Container -->
         {% unless page.no-catalog %}
@@ -106,7 +106,7 @@ layout: default
 <script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
 <script>
   var cloudTieConfig = {
-    url: document.location.href, 
+    url: document.location.href,
     sourceId: "",
     productKey: "de25fc98a6fe48b3bc8a7ae765da99a0",
     target: "cloud-tie-wrapper"
@@ -159,7 +159,11 @@ layout: default
         anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
     })
 </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css" />
 <style>
+    body, div.post-heading, div.header-mask, div.container, div.tag, div.catalog-body, h2, h3, h4, h5, h6 {
+        font-family: "LXGW WenKai", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
         .anchorjs-link{
