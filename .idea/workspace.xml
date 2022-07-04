@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="support webfont">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       <updated>1656749497712</updated>
       <workItem from="1656749499909" duration="2386000" />
       <workItem from="1656919639788" duration="2438000" />
-      <workItem from="1656924070510" duration="2432000" />
+      <workItem from="1656924070510" duration="2886000" />
     </task>
     <task id="LOCAL-00001" summary="update ignore files">
       <created>1656749636287</created>
@@ -128,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656927225592</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="support webfont">
+      <created>1656927431330</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656927431330</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
