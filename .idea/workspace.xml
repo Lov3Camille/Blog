@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="support webfont">
-      <change afterPath="$PROJECT_DIR$/fonts/great-vibes-v14-latin-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/great-vibes-v14-latin-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/great-vibes-v14-latin-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/great-vibes-v14-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/great-vibes-v14-latin-regular.woff2" afterDir="false" />
+    <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="change nav bar font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKai-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKai-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKai-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LXGWWenKaiMono-Regular.ttf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656927431330</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="change nav bar font">
+      <created>1656936280516</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656936280516</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +198,7 @@
     <MESSAGE value="add chinese font" />
     <MESSAGE value="delete header img" />
     <MESSAGE value="support webfont" />
-    <option name="LAST_COMMIT_MESSAGE" value="support webfont" />
+    <MESSAGE value="change nav bar font" />
+    <option name="LAST_COMMIT_MESSAGE" value="change nav bar font" />
   </component>
 </project>

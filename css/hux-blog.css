@@ -1182,7 +1182,9 @@ samp {
 .intro-header .page-heading {
   text-align: center;
 }
-.intro-header .site-heading h1,
+.intro-header .site-heading h1 {
+  font-family: 'Great Vibes', "LXGW WenKai", sans-serif;
+}
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
