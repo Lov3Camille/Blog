@@ -1,5 +1,17 @@
 @import "lxgw-wenkai-webfont/lxgwwenkai-bold.css";
-
+/* gowun-batang-regular - latin */
+@font-face {
+  font-family: 'Gowun Batang';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/gowun-batang-v7-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('../fonts/gowun-batang-v7-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/gowun-batang-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/gowun-batang-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../fonts/gowun-batang-v7-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/gowun-batang-v7-latin-regular.svg#GowunBatang') format('svg'); /* Legacy iOS */
+}
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -658,7 +670,7 @@ body {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -685,7 +697,7 @@ h6 {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
@@ -1236,7 +1248,7 @@ samp {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
   font-size: 17px;
   line-height: 1.4;
@@ -1386,7 +1398,7 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 14px;
@@ -1415,7 +1427,7 @@ footer .copyright a:focus {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
   font-size: 13px;
@@ -1602,7 +1614,7 @@ img::-moz-selection {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: "LXGW WenKai", sans-serif;
+  font-family: "Gowun Batang", "LXGW WenKai", sans-serif;
   line-height: 1.7;
 }
 .mini-post-list .post-preview {
