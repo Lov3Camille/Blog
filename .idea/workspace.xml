@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d328ba4-8ff8-404e-a3ef-92092c7d977d" name="Changes" comment="add gowun batang">
-      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/friends.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar-hux-ny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656987756330</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add gowun batang">
+      <created>1656988107574</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656988107574</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
